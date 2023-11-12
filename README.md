@@ -1,2 +1,3 @@
 # chandu
-this is my first reprository
+This is my first reprository
+Author-chandra jyot kumar
